@@ -1,0 +1,257 @@
+{
+  "areas": [
+    {
+      "name": "Continuous_Optimization",
+      "id": 1
+    },
+    {
+      "name": "Graphs_and_Networks",
+      "id": 2
+    },
+    {
+      "name": "Metaheuristics",
+      "id": 3
+    }
+  ],
+  "areasMatrix": [
+    [
+      1,
+      2
+    ]
+  ],
+  "streams": [
+    {
+      "name": "Continuous Optimization (contributed)",
+      "sessions": 2,
+      "areaId": 1,
+      "att": 48,
+      "id": 1
+    },
+    {
+      "name": "Vector and Set-Valued Optimization",
+      "sessions": 3,
+      "areaId": 1,
+      "att": 16,
+      "id": 2
+    },
+    {
+      "name": "Mathematical Programming",
+      "sessions": 3,
+      "areaId": 1,
+      "att": 16,
+      "id": 3
+    },
+    {
+      "name": "Robust Optimization",
+      "sessions": 4,
+      "areaId": 1,
+      "att": 22,
+      "id": 4
+    },
+    {
+      "name": "Multiobjective Continuous Optimization",
+      "sessions": 5,
+      "areaId": 1,
+      "att": 16,
+      "id": 5
+    },
+    {
+      "name": "Derivative-free Optimization",
+      "sessions": 5,
+      "areaId": 1,
+      "att": 32,
+      "id": 6
+    },
+    {
+      "name": "Nonlinear Programming. Theory and Methods",
+      "sessions": 6,
+      "areaId": 1,
+      "att": 16,
+      "id": 7
+    },
+    {
+      "name": "Copositive and Conic Optimization",
+      "sessions": 2,
+      "areaId": 1,
+      "att": 4,
+      "id": 8
+    },
+    {
+      "name": "Inverse Optimization",
+      "sessions": 1,
+      "areaId": 1,
+      "att": 16,
+      "id": 9
+    },
+    {
+      "name": "Graphs and Networks (contributed)",
+      "sessions": 1,
+      "areaId": 2,
+      "att": 48,
+      "id": 10
+    },
+    {
+      "name": "Network Analytics and Optimization",
+      "sessions": 3,
+      "areaId": 2,
+      "att": 16,
+      "id": 11
+    },
+    {
+      "name": "Algorithms on Graphs",
+      "sessions": 3,
+      "areaId": 2,
+      "att": 12,
+      "id": 12
+    },
+    {
+      "name": "Telecommunications and Network Optimization",
+      "sessions": 2,
+      "areaId": 2,
+      "att": 4,
+      "id": 13
+    },
+    {
+      "name": "Metaheuristics",
+      "sessions": 3,
+      "areaId": 3,
+      "att": 12,
+      "id": 14
+    }
+  ],
+  "buildings": [
+    {
+      "name": "Health Sciences",
+      "id": 1
+    },
+    {
+      "name": "Quinn",
+      "id": 2
+    }
+  ],
+  "rooms": [
+    {
+      "name": "a004",
+      "buildingId": 1,
+      "max": 60,
+      "id": 1
+    },
+    {
+      "name": "a003",
+      "buildingId": 1,
+      "max": 70,
+      "id": 2
+    },
+    {
+      "name": "b006",
+      "buildingId": 1,
+      "max": 30,
+      "id": 3
+    },
+    {
+      "name": "a005",
+      "buildingId": 1,
+      "max": 40,
+      "id": 4
+    },
+    {
+      "name": "a007",
+      "buildingId": 1,
+      "max": 32,
+      "id": 5
+    },
+    {
+      "name": "a008",
+      "buildingId": 1,
+      "max": 32,
+      "id": 6
+    },
+    {
+      "name": "q009",
+      "buildingId": 2,
+      "max": 60,
+      "id": 7
+    },
+    {
+      "name": "q010",
+      "buildingId": 2,
+      "max": 60,
+      "id": 8
+    },
+    {
+      "name": "q011",
+      "buildingId": 2,
+      "max": 60,
+      "id": 9
+    },
+    {
+      "name": "q012",
+      "buildingId": 2,
+      "max": 60,
+      "id": 10
+    },
+    {
+      "name": "q006",
+      "buildingId": 2,
+      "max": 40,
+      "id": 11
+    },
+    {
+      "name": "q005",
+      "buildingId": 2,
+      "max": 40,
+      "id": 12
+    },
+    {
+      "name": "q113",
+      "buildingId": 2,
+      "max": 50,
+      "id": 13
+    }
+  ],
+  "days": [
+    {
+      "code": "M",
+      "name": "monday",
+      "id": 1
+    },
+    {
+      "code": "T",
+      "name": "tuesday",
+      "id": 2
+    }
+  ],
+  "timeslots": ["A", "B", "C"],
+  "daysXtimeslots": [
+    {
+      "day": "M",
+      "timeslot": "A",
+      "id": 1
+    },
+    {
+      "day": "M",
+      "timeslot": "B",
+      "id": 2
+    },
+    {
+      "day": "M",
+      "timeslot": "C",
+      "id": 3
+    },
+    {
+      "day": "T",
+      "timeslot": "A",
+      "id": 4
+    },
+    {
+      "day": "T",
+      "timeslot": "B",
+      "id": 5
+    },
+    {
+      "day": "T",
+      "timeslot": "C",
+      "id": 6
+    }
+  ]
+}

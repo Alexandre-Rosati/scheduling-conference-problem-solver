@@ -1,0 +1,1535 @@
+{
+  "areas": [
+    {
+      "name": "Analytics_Data_Science_and_Data_Mining",
+      "id": 1
+    },
+    {
+      "name": "Artificial_Intelligence_Fuzzy_Systems_and_Computing",
+      "id": 2
+    },
+    {
+      "name": "Continuous_Optimization",
+      "id": 3
+    },
+    {
+      "name": "Control_Theory_and_System_Dynamics",
+      "id": 4
+    },
+    {
+      "name": "Decision_Analysis_DSS_DEA_and_Performance_Measurement",
+      "id": 5
+    },
+    {
+      "name": "Discrete_Optimization_MIP_and_MINLP",
+      "id": 6
+    },
+    {
+      "name": "Emerging_applications_of_OR",
+      "id": 7
+    },
+    {
+      "name": "Energy_Environment_Natural_Resources_and_Climate",
+      "id": 8
+    },
+    {
+      "name": "EURO_Awards",
+      "id": 9
+    },
+    {
+      "name": "Financial_Modeling_Risk_Management_and_Managerial_Accounting",
+      "id": 10
+    },
+    {
+      "name": "Game_Theory_and_Mathematical_Economics",
+      "id": 11
+    },
+    {
+      "name": "Graphs_and_Networks",
+      "id": 12
+    },
+    {
+      "name": "Invited_Talks",
+      "id": 13
+    },
+    {
+      "name": "Metaheuristics",
+      "id": 14
+    },
+    {
+      "name": "Multiple_Criteria_Decision_Making_and_Optimization",
+      "id": 15
+    },
+    {
+      "name": "OR_Education",
+      "id": 16
+    },
+    {
+      "name": "OR_for_Developing_Countries_and_Humanitarian_Applications",
+      "id": 17
+    },
+    {
+      "name": "OR_History_and_OR_Ethics",
+      "id": 18
+    },
+    {
+      "name": "OR_in_Health_Life_Sciences_and_Sports",
+      "id": 19
+    },
+    {
+      "name": "OR_in_Industry_and_Software_for_OR",
+      "id": 20
+    },
+    {
+      "name": "Practice_of_OR_(Making_an_Impact)",
+      "id": 21
+    },
+    {
+      "name": "Production_Service_and_Supply_Chain_Management",
+      "id": 22
+    },
+    {
+      "name": "Revenue_Management",
+      "id": 23
+    },
+    {
+      "name": "Routing_Logistics_Location_and_Transportation",
+      "id": 24
+    },
+    {
+      "name": "Scheduling_Timetabling_and_Project_Management",
+      "id": 25
+    },
+    {
+      "name": "Simulation_Stochastic_and_Robust_Optimization",
+      "id": 26
+    },
+    {
+      "name": "Soft_OR_Problem_Structuring_Methods_and_Behavioural_OR",
+      "id": 27
+    }
+  ],
+  "areasMatrix": [
+    [
+      16,
+      17
+    ],
+    [
+      16,
+      18
+    ],
+    [
+      16,
+      19
+    ],
+    [
+      16,
+      20
+    ],
+    [
+      17,
+      18
+    ],
+    [
+      17,
+      19
+    ],
+    [
+      17,
+      20
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      18,
+      20
+    ],
+    [
+      19,
+      20
+    ],
+    [
+      2,
+      22
+    ]
+  ],
+  "streams": [
+    {
+      "name": "Revenue Management (contributed)",
+      "sessions": 1,
+      "areaId": 23,
+      "att": 28,
+      "id": 1
+    },
+    {
+      "name": "Production, Service and Supply Chain Management (contributed)",
+      "sessions": 9,
+      "areaId": 22,
+      "att": 28,
+      "id": 2
+    },
+    {
+      "name": "OR in Industry and Software for OR (contributed)",
+      "sessions": 1,
+      "areaId": 20,
+      "att": 4,
+      "id": 3
+    },
+    {
+      "name": "Game Theory and Mathematical Economics (contributed)",
+      "sessions": 1,
+      "areaId": 11,
+      "att": 24,
+      "id": 4
+    },
+    {
+      "name": "Financial Modeling, Risk Management and Managerial Accounting (contributed)",
+      "sessions": 1,
+      "areaId": 10,
+      "att": 12,
+      "id": 5
+    },
+    {
+      "name": "Control Theory and System Dynamics (contributed)",
+      "sessions": 1,
+      "areaId": 4,
+      "att": 8,
+      "id": 6
+    },
+    {
+      "name": "Multiple Criteria Decision Making and Optimization (contributed)",
+      "sessions": 5,
+      "areaId": 15,
+      "att": 8,
+      "id": 7
+    },
+    {
+      "name": "Continuous Optimization (contributed)",
+      "sessions": 1,
+      "areaId": 3,
+      "att": 48,
+      "id": 8
+    },
+    {
+      "name": "Graphs and Networks (contributed)",
+      "sessions": 1,
+      "areaId": 12,
+      "att": 48,
+      "id": 9
+    },
+    {
+      "name": "Discrete and Global Optimization",
+      "sessions": 4,
+      "areaId": 6,
+      "att": 8,
+      "id": 10
+    },
+    {
+      "name": "Combinatorial Optimization I",
+      "sessions": 12,
+      "areaId": 6,
+      "att": 8,
+      "id": 11
+    },
+    {
+      "name": "Green Logistics",
+      "sessions": 5,
+      "areaId": 24,
+      "att": 16,
+      "id": 12
+    },
+    {
+      "name": "Healthcare Logistics ",
+      "sessions": 4,
+      "areaId": 24,
+      "att": 16,
+      "id": 13
+    },
+    {
+      "name": "Location Analysis and Optimization",
+      "sessions": 9,
+      "areaId": 24,
+      "att": 16,
+      "id": 14
+    },
+    {
+      "name": "Maritime Transportation",
+      "sessions": 3,
+      "areaId": 24,
+      "att": 8,
+      "id": 15
+    },
+    {
+      "name": "OR in the Physical Internet",
+      "sessions": 2,
+      "areaId": 24,
+      "att": 16,
+      "id": 16
+    },
+    {
+      "name": "Public Transportation I",
+      "sessions": 11,
+      "areaId": 24,
+      "att": 12,
+      "id": 17
+    },
+    {
+      "name": "Transportation",
+      "sessions": 11,
+      "areaId": 24,
+      "att": 8,
+      "id": 18
+    },
+    {
+      "name": "Transportation and Logistics",
+      "sessions": 5,
+      "areaId": 24,
+      "att": 8,
+      "id": 19
+    },
+    {
+      "name": "Vehicle Routing and Logistics Optimization I",
+      "sessions": 10,
+      "areaId": 24,
+      "att": 16,
+      "id": 20
+    },
+    {
+      "name": "Moments in History of OR",
+      "sessions": 2,
+      "areaId": 18,
+      "att": 20,
+      "id": 21
+    },
+    {
+      "name": "OR and Ethics",
+      "sessions": 4,
+      "areaId": 18,
+      "att": 16,
+      "id": 22
+    },
+    {
+      "name": "International Aspects of OR",
+      "sessions": 2,
+      "areaId": 18,
+      "att": 8,
+      "id": 23
+    },
+    {
+      "name": "Behavioural OR",
+      "sessions": 7,
+      "areaId": 27,
+      "att": 4,
+      "id": 24
+    },
+    {
+      "name": "Soft OR, Problem Structuring Methods",
+      "sessions": 8,
+      "areaId": 27,
+      "att": 60,
+      "id": 25
+    },
+    {
+      "name": "Mixed Integer Programming",
+      "sessions": 9,
+      "areaId": 6,
+      "att": 60,
+      "id": 26
+    },
+    {
+      "name": "Data Mining and Statistics",
+      "sessions": 5,
+      "areaId": 1,
+      "att": 24,
+      "id": 27
+    },
+    {
+      "name": "OR in Quality Management",
+      "sessions": 2,
+      "areaId": 7,
+      "att": 12,
+      "id": 28
+    },
+    {
+      "name": "OR in Neuroscience",
+      "sessions": 1,
+      "areaId": 7,
+      "att": 28,
+      "id": 29
+    },
+    {
+      "name": "Emerging Applications in Portfolio Selection and Management Science",
+      "sessions": 6,
+      "areaId": 7,
+      "att": 12,
+      "id": 30
+    },
+    {
+      "name": "Emerging Collaborative Economics and Management under Uncertainty",
+      "sessions": 2,
+      "areaId": 7,
+      "att": 4,
+      "id": 31
+    },
+    {
+      "name": "Environmental Sustainability in Supply Chains",
+      "sessions": 2,
+      "areaId": 7,
+      "att": 8,
+      "id": 32
+    },
+    {
+      "name": "Emerging Research on Education, Labor Markets and Transversal Competences",
+      "sessions": 2,
+      "areaId": 7,
+      "att": 4,
+      "id": 33
+    },
+    {
+      "name": "OR and the Arts, Creativity",
+      "sessions": 1,
+      "areaId": 7,
+      "att": 12,
+      "id": 34
+    },
+    {
+      "name": "Data Science Meets Optimization",
+      "sessions": 10,
+      "areaId": 1,
+      "att": 8,
+      "id": 35
+    },
+    {
+      "name": "Forecasting and Time Series Prediction",
+      "sessions": 1,
+      "areaId": 1,
+      "att": 4,
+      "id": 36
+    },
+    {
+      "name": "Fuzzy Optimization",
+      "sessions": 2,
+      "areaId": 2,
+      "att": 4,
+      "id": 37
+    },
+    {
+      "name": "Decision Making under Imprecise and Vague Information",
+      "sessions": 2,
+      "areaId": 2,
+      "att": 8,
+      "id": 38
+    },
+    {
+      "name": "Emerging Models for Transportation with Crowdsourcing",
+      "sessions": 1,
+      "areaId": 7,
+      "att": 12,
+      "id": 39
+    },
+    {
+      "name": "Multiple Classifier Systems and Their Applications",
+      "sessions": 5,
+      "areaId": 1,
+      "att": 8,
+      "id": 40
+    },
+    {
+      "name": "Governance Analytics",
+      "sessions": 2,
+      "areaId": 7,
+      "att": 20,
+      "id": 41
+    },
+    {
+      "name": "Network Analytics and Optimization",
+      "sessions": 3,
+      "areaId": 12,
+      "att": 16,
+      "id": 42
+    },
+    {
+      "name": "Stochastic and Robust Optimization",
+      "sessions": 6,
+      "areaId": 26,
+      "att": 12,
+      "id": 43
+    },
+    {
+      "name": "Stochastic Modeling and Simulation in Engineering, Management and Science",
+      "sessions": 4,
+      "areaId": 26,
+      "att": 8,
+      "id": 44
+    },
+    {
+      "name": "Stochastic Models and Queueing",
+      "sessions": 2,
+      "areaId": 26,
+      "att": 12,
+      "id": 45
+    },
+    {
+      "name": "Algorithms on Graphs",
+      "sessions": 3,
+      "areaId": 12,
+      "att": 12,
+      "id": 46
+    },
+    {
+      "name": "Metaheuristics",
+      "sessions": 3,
+      "areaId": 14,
+      "att": 12,
+      "id": 47
+    },
+    {
+      "name": "Big Data in Complex Systems",
+      "sessions": 3,
+      "areaId": 1,
+      "att": 8,
+      "id": 48
+    },
+    {
+      "name": "Numerical and Optimization Techniques Meet with OR",
+      "sessions": 1,
+      "areaId": 7,
+      "att": 20,
+      "id": 49
+    },
+    {
+      "name": "Software for Optimization",
+      "sessions": 8,
+      "areaId": 20,
+      "att": 28,
+      "id": 50
+    },
+    {
+      "name": "Vector and Set-Valued Optimization",
+      "sessions": 3,
+      "areaId": 3,
+      "att": 4,
+      "id": 51
+    },
+    {
+      "name": "Mathematical Programming",
+      "sessions": 3,
+      "areaId": 3,
+      "att": 4,
+      "id": 52
+    },
+    {
+      "name": "Robust Optimization",
+      "sessions": 4,
+      "areaId": 3,
+      "att": 8,
+      "id": 53
+    },
+    {
+      "name": "Multiobjective Continuous Optimization",
+      "sessions": 5,
+      "areaId": 3,
+      "att": 4,
+      "id": 54
+    },
+    {
+      "name": "Derivative-free Optimization",
+      "sessions": 5,
+      "areaId": 3,
+      "att": 4,
+      "id": 55
+    },
+    {
+      "name": "Nonlinear Programming. Theory and Methods",
+      "sessions": 6,
+      "areaId": 3,
+      "att": 8,
+      "id": 56
+    },
+    {
+      "name": "OR in Sports",
+      "sessions": 3,
+      "areaId": 19,
+      "att": 16,
+      "id": 57
+    },
+    {
+      "name": "OR in Life Sciences",
+      "sessions": 5,
+      "areaId": 19,
+      "att": 8,
+      "id": 58
+    },
+    {
+      "name": "OR in Computational Biology, Bioinformatics and Medicine",
+      "sessions": 2,
+      "areaId": 19,
+      "att": 8,
+      "id": 59
+    },
+    {
+      "name": "OR in Humanitarian Applications",
+      "sessions": 4,
+      "areaId": 17,
+      "att": 12,
+      "id": 60
+    },
+    {
+      "name": "OR for Development and Developing Countries",
+      "sessions": 3,
+      "areaId": 17,
+      "att": 24,
+      "id": 61
+    },
+    {
+      "name": "Copositive and Conic Optimization",
+      "sessions": 2,
+      "areaId": 3,
+      "att": 20,
+      "id": 62
+    },
+    {
+      "name": "Inverse Optimization",
+      "sessions": 1,
+      "areaId": 3,
+      "att": 16,
+      "id": 63
+    },
+    {
+      "name": "Mixed-Integer Nonlinear Programming",
+      "sessions": 5,
+      "areaId": 6,
+      "att": 24,
+      "id": 64
+    },
+    {
+      "name": "Knowledge and Knowledge Analytics",
+      "sessions": 4,
+      "areaId": 1,
+      "att": 28,
+      "id": 65
+    },
+    {
+      "name": "OR Applications in Industry",
+      "sessions": 2,
+      "areaId": 20,
+      "att": 12,
+      "id": 66
+    },
+    {
+      "name": "Operations/Marketing Interface",
+      "sessions": 4,
+      "areaId": 20,
+      "att": 36,
+      "id": 67
+    },
+    {
+      "name": "Cutting and Packing",
+      "sessions": 3,
+      "areaId": 22,
+      "att": 64,
+      "id": 68
+    },
+    {
+      "name": "Demand and Supply Management in Retail and Consumer Goods",
+      "sessions": 7,
+      "areaId": 22,
+      "att": 64,
+      "id": 69
+    },
+    {
+      "name": "Production Planning and Control for Complex Manufacturing Systems",
+      "sessions": 6,
+      "areaId": 22,
+      "att": 16,
+      "id": 70
+    },
+    {
+      "name": "Sustainable Supply Chains",
+      "sessions": 6,
+      "areaId": 22,
+      "att": 24,
+      "id": 71
+    },
+    {
+      "name": "IBM Research Applications",
+      "sessions": 1,
+      "areaId": 20,
+      "att": 12,
+      "id": 72
+    },
+    {
+      "name": "Lot Sizing, Lot Scheduling and Production Planning",
+      "sessions": 7,
+      "areaId": 22,
+      "att": 16,
+      "id": 73
+    },
+    {
+      "name": "Service Operations Management",
+      "sessions": 4,
+      "areaId": 22,
+      "att": 4,
+      "id": 74
+    },
+    {
+      "name": "Supply Chain Management",
+      "sessions": 12,
+      "areaId": 22,
+      "att": 20,
+      "id": 75
+    },
+    {
+      "name": "Analytics and Pricing",
+      "sessions": 1,
+      "areaId": 23,
+      "att": 8,
+      "id": 76
+    },
+    {
+      "name": "Revenue Management in Production and Logistics",
+      "sessions": 2,
+      "areaId": 23,
+      "att": 8,
+      "id": 77
+    },
+    {
+      "name": "Engineering Optimization",
+      "sessions": 1,
+      "areaId": 20,
+      "att": 4,
+      "id": 78
+    },
+    {
+      "name": "Project Management and Scheduling",
+      "sessions": 7,
+      "areaId": 25,
+      "att": 8,
+      "id": 79
+    },
+    {
+      "name": "Timetabling",
+      "sessions": 4,
+      "areaId": 25,
+      "att": 4,
+      "id": 80
+    },
+    {
+      "name": "Scheduling with Resource Constraints",
+      "sessions": 8,
+      "areaId": 25,
+      "att": 12,
+      "id": 81
+    },
+    {
+      "name": "OR in Agriculture and Forestry",
+      "sessions": 5,
+      "areaId": 8,
+      "att": 48,
+      "id": 82
+    },
+    {
+      "name": "Technical and Financial Aspects of Energy Problems",
+      "sessions": 9,
+      "areaId": 8,
+      "att": 48,
+      "id": 83
+    },
+    {
+      "name": "OR for Sustainable Development",
+      "sessions": 1,
+      "areaId": 17,
+      "att": 8,
+      "id": 84
+    },
+    {
+      "name": "OR in Water and Hydro Energy Management",
+      "sessions": 1,
+      "areaId": 8,
+      "att": 12,
+      "id": 85
+    },
+    {
+      "name": "Dynamical Models in Sustainable Development",
+      "sessions": 3,
+      "areaId": 4,
+      "att": 8,
+      "id": 86
+    },
+    {
+      "name": "Applications of Dynamical Models",
+      "sessions": 8,
+      "areaId": 4,
+      "att": 8,
+      "id": 87
+    },
+    {
+      "name": "OR Education",
+      "sessions": 5,
+      "areaId": 16,
+      "att": 24,
+      "id": 88
+    },
+    {
+      "name": "Operational Research in Financial and Management Accounting",
+      "sessions": 4,
+      "areaId": 10,
+      "att": 12,
+      "id": 89
+    },
+    {
+      "name": "Financial Mathematics and OR",
+      "sessions": 3,
+      "areaId": 10,
+      "att": 8,
+      "id": 90
+    },
+    {
+      "name": "Commodities and Financial Modelling",
+      "sessions": 1,
+      "areaId": 10,
+      "att": 12,
+      "id": 91
+    },
+    {
+      "name": "Blockchain and Cryptocurrencies: Economic and Financial Challenges",
+      "sessions": 2,
+      "areaId": 10,
+      "att": 16,
+      "id": 92
+    },
+    {
+      "name": "New Challenges in Investment Strategies, Risk and Financial Modelling",
+      "sessions": 3,
+      "areaId": 10,
+      "att": 4,
+      "id": 93
+    },
+    {
+      "name": "Dynamics and Games",
+      "sessions": 8,
+      "areaId": 10,
+      "att": 8,
+      "id": 94
+    },
+    {
+      "name": "Game Theory, Solutions and Structures",
+      "sessions": 6,
+      "areaId": 11,
+      "att": 8,
+      "id": 95
+    },
+    {
+      "name": "Mathematical Models in Macro- and Microeconomics",
+      "sessions": 4,
+      "areaId": 11,
+      "att": 12,
+      "id": 96
+    },
+    {
+      "name": "Decision Making Modeling and Risk Assessment in the Financial Sector",
+      "sessions": 5,
+      "areaId": 10,
+      "att": 16,
+      "id": 97
+    },
+    {
+      "name": "Telecommunications and Network Optimization",
+      "sessions": 2,
+      "areaId": 12,
+      "att": 4,
+      "id": 98
+    },
+    {
+      "name": "Continuous and Black Box Optimization",
+      "sessions": 5,
+      "areaId": 4,
+      "att": 16,
+      "id": 99
+    },
+    {
+      "name": "Automated Warehouse System",
+      "sessions": 2,
+      "areaId": 7,
+      "att": 24,
+      "id": 100
+    },
+    {
+      "name": "ORAHS: OR in Health and Healthcare",
+      "sessions": 11,
+      "areaId": 19,
+      "att": 4,
+      "id": 101
+    },
+    {
+      "name": "Modelling & Analytics for Energy Economics I",
+      "sessions": 12,
+      "areaId": 8,
+      "att": 44,
+      "id": 102
+    },
+    {
+      "name": "Sustainable Supply Chains",
+      "sessions": 1,
+      "areaId": 8,
+      "att": 16,
+      "id": 103
+    },
+    {
+      "name": "Decision Analysis",
+      "sessions": 4,
+      "areaId": 5,
+      "att": 8,
+      "id": 104
+    },
+    {
+      "name": "Data Envelopment Analysis and Performance Measurement",
+      "sessions": 10,
+      "areaId": 5,
+      "att": 8,
+      "id": 105
+    },
+    {
+      "name": "Optimal Control Theory and Applications",
+      "sessions": 9,
+      "areaId": 4,
+      "att": 20,
+      "id": 106
+    },
+    {
+      "name": "Variational analysis, games and intertwined optimization problems",
+      "sessions": 5,
+      "areaId": 4,
+      "att": 32,
+      "id": 107
+    },
+    {
+      "name": "Dynamical Systems and Mathematical Modelling in OR",
+      "sessions": 3,
+      "areaId": 4,
+      "att": 20,
+      "id": 108
+    },
+    {
+      "name": "Innovations in Supply Chain Network Models and Applications",
+      "sessions": 1,
+      "areaId": 4,
+      "att": 16,
+      "id": 109
+    },
+    {
+      "name": "Analytic Hierarchy Process",
+      "sessions": 3,
+      "areaId": 15,
+      "att": 36,
+      "id": 110
+    },
+    {
+      "name": "Multiple Criteria Decision Aid",
+      "sessions": 12,
+      "areaId": 15,
+      "att": 16,
+      "id": 111
+    },
+    {
+      "name": "Decision Support Systems",
+      "sessions": 3,
+      "areaId": 5,
+      "att": 8,
+      "id": 112
+    },
+    {
+      "name": "Non-Standard Optimization and Decision-Making Methods",
+      "sessions": 2,
+      "areaId": 15,
+      "att": 64,
+      "id": 113
+    },
+    {
+      "name": "Frontiers of Dynamic Games and Management",
+      "sessions": 1,
+      "areaId": 11,
+      "att": 64,
+      "id": 114
+    },
+    {
+      "name": "EURO Excellence in Practice Award",
+      "sessions": 2,
+      "areaId": 9,
+      "att": 28,
+      "id": 115
+    },
+    {
+      "name": "EURO Doctoral Dissertation Award",
+      "sessions": 1,
+      "areaId": 9,
+      "att": 12,
+      "id": 116
+    },
+    {
+      "name": "Business Analytics",
+      "sessions": 4,
+      "areaId": 1,
+      "att": 16,
+      "id": 117
+    },
+    {
+      "name": "Plenaries",
+      "sessions": 3,
+      "areaId": 13,
+      "att": 16,
+      "id": 118
+    },
+    {
+      "name": "Tutorials",
+      "sessions": 12,
+      "areaId": 13,
+      "att": 32,
+      "id": 119
+    },
+    {
+      "name": "ROADEF/EURO challenge",
+      "sessions": 1,
+      "areaId": 9,
+      "att": 12,
+      "id": 120
+    },
+    {
+      "name": "Practice of OR (Making an Impact)",
+      "sessions": 12,
+      "areaId": 21,
+      "att": 20,
+      "id": 121
+    },
+    {
+      "name": "EURO\u00c2\u00a0Journals",
+      "sessions": 1,
+      "areaId": 13,
+      "att": 20,
+      "id": 122
+    },
+    {
+      "name": "Combinatorial Optimization II",
+      "sessions": 12,
+      "areaId": 6,
+      "att": 44,
+      "id": 123
+    },
+    {
+      "name": "Modelling & Analytics for Energy Economics II",
+      "sessions": 2,
+      "areaId": 8,
+      "att": 12,
+      "id": 124
+    },
+    {
+      "name": "Vehicle Routing and Logistics Optimization II",
+      "sessions": 6,
+      "areaId": 24,
+      "att": 12,
+      "id": 125
+    },
+    {
+      "name": "Opening and Closing",
+      "sessions": 2,
+      "areaId": 13,
+      "att": 120,
+      "id": 126
+    },
+    {
+      "name": "Public Transportation II",
+      "sessions": 2,
+      "areaId": 24,
+      "att": 16,
+      "id": 127
+    },
+    {
+      "name": "Mathematical Modelling",
+      "sessions": 7,
+      "areaId": 11,
+      "att": 32,
+      "id": 128
+    },
+    {
+      "name": "Women in OR",
+      "sessions": 2,
+      "areaId": 13,
+      "att": 16,
+      "id": 129
+    },
+    {
+      "name": "Special Session 1",
+      "sessions": 1,
+      "areaId": 13,
+      "att": 36,
+      "id": 130
+    }
+  ],
+  "buildings": [
+    {
+      "name": "O'Reilly Hall",
+      "id": 1
+    },
+    {
+      "name": "Health Sciences",
+      "id": 2
+    },
+    {
+      "name": "O'Brien",
+      "id": 3
+    },
+    {
+      "name": "Newman Arts",
+      "id": 4
+    },
+    {
+      "name": "Quinn",
+      "id": 5
+    },
+    {
+      "name": "Sutherland",
+      "id": 6
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Main auditorium",
+      "buildingId": 1,
+      "max": 1100,
+      "id": 1
+    },
+    {
+      "name": "a004",
+      "buildingId": 2,
+      "max": 60,
+      "id": 2
+    },
+    {
+      "name": "a003",
+      "buildingId": 2,
+      "max": 60,
+      "id": 3
+    },
+    {
+      "name": "b006",
+      "buildingId": 2,
+      "max": 27,
+      "id": 4
+    },
+    {
+      "name": "a005",
+      "buildingId": 2,
+      "max": 40,
+      "id": 5
+    },
+    {
+      "name": "a007",
+      "buildingId": 2,
+      "max": 32,
+      "id": 6
+    },
+    {
+      "name": "a008",
+      "buildingId": 2,
+      "max": 32,
+      "id": 7
+    },
+    {
+      "name": "c007",
+      "buildingId": 2,
+      "max": 100,
+      "id": 8
+    },
+    {
+      "name": "c006",
+      "buildingId": 2,
+      "max": 100,
+      "id": 9
+    },
+    {
+      "name": "c112",
+      "buildingId": 2,
+      "max": 22,
+      "id": 10
+    },
+    {
+      "name": "c115",
+      "buildingId": 2,
+      "max": 26,
+      "id": 11
+    },
+    {
+      "name": "c118",
+      "buildingId": 2,
+      "max": 26,
+      "id": 12
+    },
+    {
+      "name": "h0.12",
+      "buildingId": 3,
+      "max": 40,
+      "id": 13
+    },
+    {
+      "name": "h0.22",
+      "buildingId": 3,
+      "max": 40,
+      "id": 14
+    },
+    {
+      "name": "h0.23",
+      "buildingId": 3,
+      "max": 40,
+      "id": 15
+    },
+    {
+      "name": "george moore auditorium",
+      "buildingId": 3,
+      "max": 100,
+      "id": 16
+    },
+    {
+      "name": "h1.12",
+      "buildingId": 3,
+      "max": 30,
+      "id": 17
+    },
+    {
+      "name": "h1.51",
+      "buildingId": 3,
+      "max": 30,
+      "id": 18
+    },
+    {
+      "name": "h1.48",
+      "buildingId": 3,
+      "max": 30,
+      "id": 19
+    },
+    {
+      "name": "h1.47",
+      "buildingId": 3,
+      "max": 30,
+      "id": 20
+    },
+    {
+      "name": "h2.12",
+      "buildingId": 3,
+      "max": 30,
+      "id": 21
+    },
+    {
+      "name": "theater A",
+      "buildingId": 3,
+      "max": 100,
+      "id": 22
+    },
+    {
+      "name": "h2.20",
+      "buildingId": 3,
+      "max": 30,
+      "id": 23
+    },
+    {
+      "name": "H2.32",
+      "buildingId": 3,
+      "max": 30,
+      "id": 24
+    },
+    {
+      "name": "g107",
+      "buildingId": 4,
+      "max": 40,
+      "id": 25
+    },
+    {
+      "name": "g108",
+      "buildingId": 4,
+      "max": 40,
+      "id": 26
+    },
+    {
+      "name": "g109",
+      "buildingId": 4,
+      "max": 40,
+      "id": 27
+    },
+    {
+      "name": "g103",
+      "buildingId": 4,
+      "max": 40,
+      "id": 28
+    },
+    {
+      "name": "g102",
+      "buildingId": 4,
+      "max": 40,
+      "id": 29
+    },
+    {
+      "name": "f101",
+      "buildingId": 4,
+      "max": 30,
+      "id": 30
+    },
+    {
+      "name": "f102",
+      "buildingId": 4,
+      "max": 30,
+      "id": 31
+    },
+    {
+      "name": "f107",
+      "buildingId": 4,
+      "max": 30,
+      "id": 32
+    },
+    {
+      "name": "f106",
+      "buildingId": 4,
+      "max": 30,
+      "id": 33
+    },
+    {
+      "name": "f103a",
+      "buildingId": 4,
+      "max": 30,
+      "id": 34
+    },
+    {
+      "name": "f103",
+      "buildingId": 4,
+      "max": 30,
+      "id": 35
+    },
+    {
+      "name": "f104",
+      "buildingId": 4,
+      "max": 30,
+      "id": 36
+    },
+    {
+      "name": "q009",
+      "buildingId": 5,
+      "max": 60,
+      "id": 37
+    },
+    {
+      "name": "q010",
+      "buildingId": 5,
+      "max": 60,
+      "id": 38
+    },
+    {
+      "name": "q011",
+      "buildingId": 5,
+      "max": 60,
+      "id": 39
+    },
+    {
+      "name": "q012",
+      "buildingId": 5,
+      "max": 60,
+      "id": 40
+    },
+    {
+      "name": "q013",
+      "buildingId": 5,
+      "max": 60,
+      "id": 41
+    },
+    {
+      "name": "q014",
+      "buildingId": 5,
+      "max": 60,
+      "id": 42
+    },
+    {
+      "name": "q015",
+      "buildingId": 5,
+      "max": 40,
+      "id": 43
+    },
+    {
+      "name": "q006",
+      "buildingId": 5,
+      "max": 40,
+      "id": 44
+    },
+    {
+      "name": "q005",
+      "buildingId": 5,
+      "max": 40,
+      "id": 45
+    },
+    {
+      "name": "q113",
+      "buildingId": 5,
+      "max": 50,
+      "id": 46
+    },
+    {
+      "name": "q114",
+      "buildingId": 5,
+      "max": 40,
+      "id": 47
+    },
+    {
+      "name": "q115",
+      "buildingId": 5,
+      "max": 40,
+      "id": 48
+    },
+    {
+      "name": "q116",
+      "buildingId": 5,
+      "max": 40,
+      "id": 49
+    },
+    {
+      "name": "q117",
+      "buildingId": 5,
+      "max": 40,
+      "id": 50
+    },
+    {
+      "name": "q106",
+      "buildingId": 5,
+      "max": 40,
+      "id": 51
+    },
+    {
+      "name": "mason hayes & curran theatre",
+      "buildingId": 6,
+      "max": 120,
+      "id": 52
+    },
+    {
+      "name": "william fry theatre",
+      "buildingId": 6,
+      "max": 120,
+      "id": 53
+    },
+    {
+      "name": "l243",
+      "buildingId": 6,
+      "max": 40,
+      "id": 54
+    },
+    {
+      "name": "l249",
+      "buildingId": 6,
+      "max": 40,
+      "id": 55
+    },
+    {
+      "name": "l248",
+      "buildingId": 6,
+      "max": 40,
+      "id": 56
+    },
+    {
+      "name": "l247",
+      "buildingId": 6,
+      "max": 40,
+      "id": 57
+    }
+  ],
+  "days": [
+    {
+      "code": "M",
+      "name": "monday",
+      "id": 1
+    },
+    {
+      "code": "T",
+      "name": "tuesday",
+      "id": 2
+    },
+    {
+      "code": "W",
+      "name": "wednesday",
+      "id": 3
+    }
+  ],
+  "timeslots": ["A", "B", "C", "D", "E"],
+  "daysXtimeslots": [
+    {
+      "day": "M",
+      "timeslot": "A",
+      "id": 1
+    },
+    {
+      "day": "M",
+      "timeslot": "B",
+      "id": 2
+    },
+    {
+      "day": "M",
+      "timeslot": "C",
+      "id": 3
+    },
+    {
+      "day": "M",
+      "timeslot": "D",
+      "id": 4
+    },
+    {
+      "day": "M",
+      "timeslot": "E",
+      "id": 5
+    },
+    {
+      "day": "T",
+      "timeslot": "A",
+      "id": 6
+    },
+    {
+      "day": "T",
+      "timeslot": "B",
+      "id": 7
+    },
+    {
+      "day": "T",
+      "timeslot": "C",
+      "id": 8
+    },
+    {
+      "day": "T",
+      "timeslot": "D",
+      "id": 9
+    },
+    {
+      "day": "T",
+      "timeslot": "E",
+      "id": 10
+    },
+    {
+      "day": "W",
+      "timeslot": "A",
+      "id": 11
+    },
+    {
+      "day": "W",
+      "timeslot": "B",
+      "id": 12
+    },
+    {
+      "day": "W",
+      "timeslot": "C",
+      "id": 13
+    },
+    {
+      "day": "W",
+      "timeslot": "D",
+      "id": 14
+    },
+    {
+      "day": "W",
+      "timeslot": "E",
+      "id": 15
+    }
+  ]
+}
